@@ -31,5 +31,6 @@
 
 
 ### ✍️ Random Dev Quote
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
