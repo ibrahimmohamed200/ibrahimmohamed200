@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/8d/62/1f/8d621f66f551b6a39072473d52280ff0.gif">
 
 
-- 🌱 I’m currently learning **learning AWS**
+- 🌱 I’m currently learning **AWS**
 
 - 💬 Ask me about **Full Stack Web Development 😊**
 
